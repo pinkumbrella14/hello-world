@@ -1,2 +1,4 @@
 # hello-world
-This is just practice on how to create a repo
+Hello world!
+
+What a fun exercise to learn about how Github works :)
